@@ -1,7 +1,7 @@
 package ku.message.controller;
 
 import ku.message.model.Message;
-import ku.message.respository.MessageRepository;
+import ku.message.repository.MessageRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

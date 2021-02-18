@@ -1,4 +1,4 @@
-package ku.message.respository;
+package ku.message.repository;
 
 import ku.message.model.Message;
 import org.springframework.data.jpa.repository.JpaRepository;
